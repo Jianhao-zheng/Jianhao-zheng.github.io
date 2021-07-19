@@ -15,9 +15,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+# Semester project
+## Distributed Model Predictive Control Architectures for Multi-Rotor Micro Aerial Vehicles
+<p float='left'>
+	<img src="https://jianhao-zheng.github.io/images/SP1.png" width="400"/> 
+</p>
+
+# Course project
 ## Autonomous Navigation and Landing for Crazyflie
 <p float='left'>
-	<img src="https://jianhao-zheng.github.io/images/crazy_flie.png" width="600"/> 
+	<img src="https://jianhao-zheng.github.io/images/crazy_flie.png" width="400"/> 
 </p>
 
 We programed based on Crazyflie 2.1 to find and precisely land on a platform with height of 10 cm by utilizing z reading from flow deck. Additionally, We also utilized sensor readings from multi-ranger deck to avoid the obstacles presented in the environment.
@@ -25,7 +32,7 @@ We programed based on Crazyflie 2.1 to find and precisely land on a platform wit
 
 ## Sim2Real Development for Thymio with ROS
 <p float='left'>
-	<img src="https://jianhao-zheng.github.io/images/ROS.png" width="600"/> 
+	<img src="https://jianhao-zheng.github.io/images/ROS.png" width="400"/> 
 </p>
 
 We implemented autonomous navigation with obstacle avoidance of the Thymio-II robot from simulation in Gazebo to real-world tests.
