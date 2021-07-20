@@ -16,12 +16,14 @@ tags:
 <!-- {% include toc %} -->
 
 **Semster Research student** at [Distributed Intelligent Systems and Algorithms Laboratory](https://www.epfl.ch/labs/disal/), EPFL since *Feb. 2021*
+
 Supervisor: [Izzet Kagan Erunsal](https://www.epfl.ch/labs/disal/people/team/kaganerunsal/) (PhD student) and [Prof. Alcherio Martinoli](https://www.epfl.ch/labs/disal/people/team/alcheriomartinoli/)
 
 <br/>
 # Introduction
-The simulation results indicated that the Distributed MPC controller has 37% less formation error than the Decentralized MPC controller.
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+The main goal of this project is to compare the effectiveness of different Distributed MPC architectures and a [Decentralized MPC scheme](https://ieeexplore.ieee.org/document/8901098) in a leader-follower formation control problem.
+
+
 
 <br/>
 # System architecture
@@ -32,10 +34,11 @@ The privacy of my visitors is extremely important. This Privacy Policy outlines 
 
 <br/>
 ## Webots-ROS Simulation
+The simulation results indicated that the Distributed MPC controller has 37% less formation error than the Decentralized MPC controller.
 
 <br/>
 # Final presentation
-<iframe src="https://drive.google.com/file/d/1XjO8MHpXqxkwYaE_ZIoHvBzjoR4DeWhh/view" width="700" height="400"></iframe>
+<iframe src="https://drive.google.com/file/d/1XjO8MHpXqxkwYaE_ZIoHvBzjoR4DeWhh/preview" width="700" height="400"></iframe>
 
 ### Log Files
 
