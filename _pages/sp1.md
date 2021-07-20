@@ -20,24 +20,25 @@ tags:
 Supervisor: [Izzet Kagan Erunsal](https://www.epfl.ch/labs/disal/people/team/kaganerunsal/) (PhD student) and [Prof. Alcherio Martinoli](https://www.epfl.ch/labs/disal/people/team/alcheriomartinoli/)
 
 <br/>
-# Introduction
+## Introduction
 The main goal of this project is to compare the effectiveness of different Distributed MPC architectures and a [Decentralized MPC scheme](https://ieeexplore.ieee.org/document/8901098) in a leader-follower formation control problem.
 
 
 
 <br/>
-# System architecture
+## System architecture
 
 <br/>
-# Experiments
-## MATLAB Simulation
+## Experiments
+### MATLAB Simulation
 
 <br/>
-## Webots-ROS Simulation
+### Webots-ROS Simulation
 The simulation results indicated that the Distributed MPC controller has 37% less formation error than the Decentralized MPC controller.
 
 <br/>
-# Final presentation
+## Final presentation
+
 <iframe src="https://drive.google.com/file/d/1XjO8MHpXqxkwYaE_ZIoHvBzjoR4DeWhh/preview" width="700" height="400"></iframe>
 
 ### Log Files
