@@ -15,11 +15,27 @@ tags:
 <!-- {% include base_path %} -->
 <!-- {% include toc %} -->
 
-# Privacy Policy
+**Semster Research student** at [Distributed Intelligent Systems and Algorithms Laboratory](https://www.epfl.ch/labs/disal/), EPFL since *Feb. 2021*
+Supervisor: [Izzet Kagan Erunsal](https://www.epfl.ch/labs/disal/people/team/kaganerunsal/) (PhD student) and [Prof. Alcherio Martinoli](https://www.epfl.ch/labs/disal/people/team/alcheriomartinoli/)
+
+<br/>
+# Introduction
 The simulation results indicated that the Distributed MPC controller has 37% less formation error than the Decentralized MPC controller.
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+<br/>
+# System architecture
+
+<br/>
+# Experiments
+## MATLAB Simulation
+
+<br/>
+## Webots-ROS Simulation
+
+<br/>
+# Final presentation
+<iframe src="https://drive.google.com/file/d/1XjO8MHpXqxkwYaE_ZIoHvBzjoR4DeWhh/view" width="700" height="400"></iframe>
 
 ### Log Files
 
