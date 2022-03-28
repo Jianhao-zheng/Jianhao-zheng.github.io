@@ -16,3 +16,16 @@ I received my Bachelor's Degree in Mechanical Engineering in 2020 from [Shanghai
 
 My current research interests are Model Predictive Control, Aerial Robotics and SLAM. For more info, please refer to the latest [CV](../files/cv.pdf).
 
+# Publications
+<p float='left'>
+	<img src="https://qiyan98.github.io/images/crossloc2021.png" width="600"/> 
+</p>
+**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**
+<br/>
+Qi Yan, **Jianhao Zheng**, Simon Reding, Shanci Li, Iordan Doytchinov
+<br/>
+*CVPR 2022.*
+<br/>
+[[arXiv](https://arxiv.org/abs/2112.09081)] [[code](https://github.com/TOPO-EPFL/CrossLoc)] [[website](https://crossloc.github.io/)]
+
+<hr style="border:1px solid gray"/> 
