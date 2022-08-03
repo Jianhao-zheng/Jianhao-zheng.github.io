@@ -28,7 +28,7 @@ Qi Yan, **Jianhao Zheng**, Simon Reding, Shanci Li, Iordan Doytchinov
 <br/>
 *CVPR 2022.*
 <br/>
-[[arXiv](https://arxiv.org/abs/2112.09081)] [[code](https://github.com/TOPO-EPFL/CrossLoc)] [[website](https://crossloc.github.io/)]
+[[arXiv](https://arxiv.org/abs/2112.09081)] [[code](https://github.com/TOPO-EPFL/CrossLoc)] [[video](https://www.youtube.com/watch?v=pytRRXPFqFE)] [[website](https://crossloc.github.io/)]
 
 <hr style="border:1px solid gray"/> 
 
