@@ -41,6 +41,6 @@ Izzet Kagan Erunsal, **Jianhao Zheng**, Rodrigo VENTURA, Alcherio Martinoli
 <br/>
 *IROS 2022.*
 <br/>
-[paper will be published on October 20, 2022] [[video](https://youtu.be/KQShZWSvC0s)]
+[[paper](https://infoscience.epfl.ch/record/298847/files/IROS_22_submitted.pdf)] [[video](https://youtu.be/KQShZWSvC0s)]
 
 <hr style="border:1px solid gray"/> 
