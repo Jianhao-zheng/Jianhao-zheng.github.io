@@ -86,8 +86,8 @@ author:
   location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "jianhao.zheng@epfl.ch"
+  googlescholar    : "https://scholar.google.com/citations?user=2coJL80AAAAJ&hl=en"
+  email            : "jianhao@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

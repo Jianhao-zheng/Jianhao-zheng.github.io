@@ -10,13 +10,11 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am currently a second-year master's student in [Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [EPFL](https://www.epfl.ch/en/), Switzerland. Starting from Sept 2022, I will begin my master thesis with the topic "Semantic SLAM with Quality-adaptive Properties", under the supervision of [Dr. Dániel Béla Baráth](https://people.inf.ethz.ch/dbarath/), [Dr. IRO ARMENI](https://ir0.github.io/) and [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) at [CVG](http://www.cvg.ethz.ch/index.php) in ETH. 
+My name is Jianhao ZHENG. I am an incoming Ph.D. student (23fall) in the Civil and Environmental Engineering at Stanford University, advised by [Prof. IRO ARMENI](https://ir0.github.io/). I am broadly interested in the field of 3D vision and Robotics.
 
-During my study at EPFL, I worked with [Izzet Kagan Erunsal](https://www.epfl.ch/labs/disal/people/team/kaganerunsal/) and [Prof. Alcherio Martinoli](https://www.epfl.ch/labs/disal/people/team/alcheriomartinoli/) on [Multiple Micro Aerial Vehicles formation control](/sp1) at [DISAL](https://www.epfl.ch/labs/disal/). In addition, I took part in the project on visual navigation algorithm at [TOPO](https://www.epfl.ch/labs/topo/) lab, supervised by [Dr. Iordan Doytchinov](https://people.epfl.ch/iordan.doytchinov) and [Prof. Bertrand Merminod](https://people.epfl.ch/bertrand.merminod?lang=en).
+I obtained my Master Degree in [Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [EPFL](https://www.epfl.ch/en/), Switzerland, where I worked with [Prof. Alcherio Martinoli](https://www.epfl.ch/labs/disal/people/team/alcheriomartinoli/), [Dr. Iordan Doytchinov](https://people.epfl.ch/iordan.doytchinov) and [Prof. Bertrand Merminod](https://people.epfl.ch/bertrand.merminod?lang=en) on Aerial Robotics and Visual Localization. I also did my Master Thesis as an exchanged student at [ETHZ](https://ethz.ch/en.html) , under the supervision of [Dr. Dániel Béla Baráth](https://people.inf.ethz.ch/dbarath/), [Prof. IRO ARMENI](https://ir0.github.io/) and [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/). I received my Bachelor's Degree in Mechanical Engineering in 2020 from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), Shanghai, China.
 
-I received my Bachelor's Degree in Mechanical Engineering in 2020 from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), Shanghai, China. In that period, I worked on Cross-Modal Fusion or Biomolecular Structure Determination with [Prof. Gregory Chirikjian](https://me.jhu.edu/faculty/gregory-s-chirikjian/) at [NUS](https://www.nus.edu.sg/) and UR robot control with [Prof. Zhuang Fu](https://me.sjtu.edu.cn/en/FullTimeTeacher/fuzhuang.html) at SJTU.
-
-My current research interests are Aerial Robotics, SLAM and 3d reconstruction. For more info, please refer to the latest [CV](../files/cv.pdf).
+For more info, please refer to the latest [CV](../files/cv.pdf).
 
 # Publications
 <p float='left'>
