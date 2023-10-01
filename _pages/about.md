@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-My name is Jianhao ZHENG. I am an incoming Ph.D. student (23fall) in the Civil and Environmental Engineering at Stanford University, advised by [Prof. IRO ARMENI](https://ir0.github.io/). I am broadly interested in the field of 3D vision and Robotics.
+My name is Jianhao ZHENG. I am a first-year Ph.D. student in the Civil and Environmental Engineering at Stanford University, advised by [Prof. IRO ARMENI](https://ir0.github.io/). I am broadly interested in the field of 3D vision and Robotics.
 
 I obtained my Master Degree in [Robotics](https://www.epfl.ch/education/master/programs/robotics/) at [EPFL](https://www.epfl.ch/en/), Switzerland, where I worked with [Prof. Alcherio Martinoli](https://www.epfl.ch/labs/disal/people/team/alcheriomartinoli/), [Dr. Iordan Doytchinov](https://people.epfl.ch/iordan.doytchinov) and [Prof. Bertrand Merminod](https://people.epfl.ch/bertrand.merminod?lang=en) on Aerial Robotics and Visual Localization. I also did my Master Thesis as an exchanged student at [ETHZ](https://ethz.ch/en.html) , under the supervision of [Dr. Dániel Béla Baráth](https://people.inf.ethz.ch/dbarath/), [Prof. IRO ARMENI](https://ir0.github.io/) and [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/). I received my Bachelor's Degree in Mechanical Engineering in 2020 from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), Shanghai, China.
 
