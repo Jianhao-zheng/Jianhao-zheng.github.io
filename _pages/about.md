@@ -50,6 +50,7 @@ Izzet Kagan Erunsal, **Jianhao Zheng**, Rodrigo VENTURA, Alcherio Martinoli
 
 # Misc
 Workshop Organisation: [Long-Term Perception](https://mit-spark.github.io/Longterm-Perception-WS/)@IROS 2024
+
 Reviewer: CVPR, ECCV, NeurIPS, IROS
 
 <hr style="border:1px solid gray"/> 
