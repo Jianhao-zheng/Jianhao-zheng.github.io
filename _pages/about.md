@@ -15,6 +15,23 @@ I am a second-year PhD student in [Gradient Spaces Lab](https://gradientspaces.s
 # Publications
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
     <div style="flex: 0 0 400px; margin-right: 20px;">
+        <img src="../images/wildgs_slam.gif" width="400"/>
+    </div>
+    <div style="flex: 1;">
+        <h3 style="margin-top: 0;">WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments</h3>
+        <p><strong>Jianhao Zheng</strong>*, Zihan Zhu*, Valentin Bieri, Marc Pollefeys, Songyou Peng, Iro Armeni</p>
+        <p><em>CVPR 2025.</em></p>
+        <p>
+            <a href="https://arxiv.org/abs/2504.03886">[arXiv]</a>
+            <a href="https://github.com/GradientSpaces/WildGS-SLAM.git">[code]</a>
+            <a href="https://www.youtube.com/watch?v=xXuolzFvddQ&t=11s">[video]</a>
+            <a href="https://wildgs-slam.github.io/">[website]</a>
+        </p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+    <div style="flex: 0 0 400px; margin-right: 20px;">
         <img src="../images/mapadapt.001.jpeg" width="400"/>
     </div>
     <div style="flex: 1;">
@@ -23,7 +40,7 @@ I am a second-year PhD student in [Gradient Spaces Lab](https://gradientspaces.s
         <p><em>ECCV 2024.</em></p>
         <p>
             <a href="https://arxiv.org/pdf/2406.05849">[arXiv]</a>
-            <!-- <a href="https://github.com/TOPO-EPFL/CrossLoc">[code]</a> -->
+            <a href="https://github.com/GradientSpaces/MAP-ADAPT">[code]</a>
             <a href="https://www.youtube.com/watch?v=MB2D2j-rJ8E&ab_channel=JianhaoZheng">[video]</a>
             <a href="https://map-adapt.github.io/">[website]</a>
         </p>
